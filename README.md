@@ -15,8 +15,4 @@ A simple and modern digital student card mobile application built with Flutter &
 - Dart
 - Android Studio
 
-## 👩‍💻 Author
 
-**Roumeissa Benaissa**
-
-Developed for learning and portfolio purposes.
